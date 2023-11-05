@@ -13,6 +13,8 @@
  📫 How to reach me **joseph.a.baeza@gmail.com**
 
  ⚡ Fun fact **Caught a fish with bare hands**
+ 
+ ⚾ Favorite Sport **Baseball**
 </p>
 
 
