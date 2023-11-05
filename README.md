@@ -12,8 +12,6 @@
 
  📫 How to reach me **joseph.a.baeza@gmail.com**
 
- 📄 Know about my experiences [Joseph_Baeza_Resume.pdf](Joseph_Baeza_Resume.pdf)
-
  ⚡ Fun fact **Caught a fish with bare hands**
 </p>
 
