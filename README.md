@@ -4,7 +4,7 @@
 
 <p
 
- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **Spring Boot**
 
  🤝 I’m looking for help with **AI File Handling**
 
