@@ -6,7 +6,7 @@
 
  🌱 I’m currently learning **Spring Boot**
 
- 🤝 I’m looking for help with **an internship**
+ 🤝 I’m looking for help with an **internship**
 
  💬 Ask me about **Databases**
 
