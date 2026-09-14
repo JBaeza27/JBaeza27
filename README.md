@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/joseph-baeza-tx/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="mailto:joseph.a.baeza@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+ <img src="https://img.shields.io/badge/Email-joseph.a.baeza%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: joseph.a.baeza@gmail.com"/>
 </p>
 
 I build and ship full-stack web applications, SaaS platforms, and automated backend systems. I built a live AI governance platform that won **$11,000** in competitive funding, and I'm currently the lead software engineer intern at a real estate brokerage, building production tools its agents use every day.
