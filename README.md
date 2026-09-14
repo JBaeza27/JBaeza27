@@ -15,21 +15,19 @@ Graduating in **December 2026** with a **B.S. in Software Engineering** from **U
 
 ## Tech Stack
 
-The tools I use to design, build, and deploy production applications, from typed frontends and REST APIs to cloud databases and CI/CD pipelines.
-
-**Languages**: TypeScript, JavaScript, and Python for most of my web and backend work, with a foundation in Java, C, and C++
+**Languages:** TypeScript · JavaScript · Python · Java · C · C++
 
 <img src="https://skillicons.dev/icons?i=ts,js,py,java,c,cpp&perline=8" alt="Languages"/>
 
-**Frameworks & Libraries**: Next.js and React on the frontend, FastAPI and Spring Boot for APIs and services, and Maven and Gradle for Java builds
+**Frameworks & Libraries:** Next.js · React · FastAPI · Spring Boot · Maven · Gradle
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,spring,maven,gradle&perline=8" alt="Frameworks"/>
 
-**Databases & Cloud**: PostgreSQL, MySQL, and Supabase for relational data, MongoDB and Firebase for NoSQL, with apps deployed on Google Cloud and Vercel
+**Databases & Cloud:** PostgreSQL · MySQL · Supabase · MongoDB · Firebase · Google Cloud · Vercel
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,gcp,vercel&perline=8" alt="Databases and Cloud"/>
 
-**Tools**: Git for version control, Docker for containers, GitHub Actions for CI/CD, Postman for API testing, Figma for design, and Android Studio for mobile apps
+**Tools:** Git · Docker · GitHub Actions · Postman · Figma · Android Studio
 
 <img src="https://skillicons.dev/icons?i=git,docker,githubactions,postman,figma,androidstudio&perline=8" alt="Tools"/>
 
